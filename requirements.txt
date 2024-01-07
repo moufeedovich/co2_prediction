@@ -1,0 +1,14 @@
+base64
+streamlit
+pandas
+altair
+warnings
+plotly.express
+sklearn
+sklearn.model_selection
+numpy
+matplotlib.pyplot
+sklearn.metrics
+sklearn.metrics
+sklearn.ensemble
+pickle
